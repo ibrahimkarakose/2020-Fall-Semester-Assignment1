@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T15:20:40.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" version="13.8.3" etag="yVa9fGNdhzMcB0c0vdcr" type="github"><diagram id="plvnVji1cUOLpsNNhbV2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-27T06:10:55.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="qrubHBIShmdCxn5mrZhJ" version="13.8.3" type="github">
+  <diagram id="plvnVji1cUOLpsNNhbV2" name="Page-1">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cd8Bhe2SKMhc9pZCAJ4u-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cd8Bhe2SKMhc9pZCAJ4u-1" target="Cd8Bhe2SKMhc9pZCAJ4u-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cd8Bhe2SKMhc9pZCAJ4u-1" value="&lt;b&gt;Dimension Control is made according to the Axial Force.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cd8Bhe2SKMhc9pZCAJ4u-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cd8Bhe2SKMhc9pZCAJ4u-2" target="Cd8Bhe2SKMhc9pZCAJ4u-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cd8Bhe2SKMhc9pZCAJ4u-2" value="&lt;b&gt;We must determine dimensionless ratios, for the diagram (abak) choice to be used.&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="100" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cd8Bhe2SKMhc9pZCAJ4u-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cd8Bhe2SKMhc9pZCAJ4u-4" target="Cd8Bhe2SKMhc9pZCAJ4u-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cd8Bhe2SKMhc9pZCAJ4u-4" value="&lt;b&gt;If the Pt value is less than Pt&lt;sub&gt;min&lt;/sub&gt;, the min reinforcement ratio can be selected.&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="230" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cd8Bhe2SKMhc9pZCAJ4u-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cd8Bhe2SKMhc9pZCAJ4u-6" target="Cd8Bhe2SKMhc9pZCAJ4u-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cd8Bhe2SKMhc9pZCAJ4u-6" value="&lt;b&gt;From the diagram (abak)&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;b&gt;Ψ&lt;/b&gt;&lt;b&gt;= e / h value is determined.&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cd8Bhe2SKMhc9pZCAJ4u-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cd8Bhe2SKMhc9pZCAJ4u-8" target="Cd8Bhe2SKMhc9pZCAJ4u-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cd8Bhe2SKMhc9pZCAJ4u-8" value="&lt;b&gt;With these values, the ratio of Pt reinforcement from diagram(abak) is determined.&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cd8Bhe2SKMhc9pZCAJ4u-11" value="&lt;b&gt;Longitudinal reinforcement ratio and diameter are determined.&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
